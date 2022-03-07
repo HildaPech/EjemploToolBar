@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/drawable/fav.xml" value="0.1945" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/drawable/icono_backup.xml" value="0.1945" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/layout/activity_pantalla_dos.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/EjemploToolBar/app/src/main/res/menu/menu_pantalla_dos.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
