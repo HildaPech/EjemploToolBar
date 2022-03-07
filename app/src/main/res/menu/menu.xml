@@ -3,6 +3,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/busqueda"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:icon="@drawable/icono_search"
+        android:title="Search"
+        app:showAsAction="ifRoom|collapseActionView"/>
+    <item
         android:id="@+id/bFav"
         android:icon="@drawable/fav"
         android:title="@string/titulo_fav"
